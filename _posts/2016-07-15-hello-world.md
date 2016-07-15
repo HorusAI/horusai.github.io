@@ -9,6 +9,10 @@ image:        "http://placehold.it/400x200"
 author:       "KCao"
 ---
 
+# Very Large Heading
+
+## Large Heading
+
 <p class="lead">Large Font</p>
 
 Smaller font
@@ -16,8 +20,6 @@ Smaller font
 
 
 **bolded text**
-
-## Large Heading
 
 * Dot points
 1. Numbered points
@@ -27,10 +29,10 @@ Smaller font
 > Indent
 
 ``` javascript
-code;
+code
 ```
 
-# Images
+## Images
 
 ![Large example image](http://placehold.it/800x400 "Large example image")
 ![Medium example image](http://placehold.it/400x200 "Medium example image")
@@ -54,4 +56,5 @@ code;
 ## Links
 
 [Jekyll Talk][jekyll-talk]
+
 [jekyll-talk]: https://talk.jekyllrb.com/
