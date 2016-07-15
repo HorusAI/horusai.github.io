@@ -27,7 +27,7 @@ highlighter:        rouge
 # Navigation
 nav:
   - name:           "About"
-    href:           "https://horusai.github.io/about/"
+    href:           "//horusai.github.io/about"
 
 
 # Sass
