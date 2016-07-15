@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
-
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+<p class="lead">HorusAI is a medical artificial intelligence startup from
+Melbourne, Australia. In Egyptian mythology, Horus symbolised healing,
+restoration and sacrifice. Our immediate goals are to build medical AI systems
+for both the developed and developing world through a model of impact
+investment.</p>
