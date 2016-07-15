@@ -4,4 +4,10 @@ HorusAI Blog
 horusai.github.io
 
 
-Test, test is so really, it's reality
+HELLO KHOA!!!!!!!!!
+
+=========          ===========
+
+         =========
+
+MARCO
