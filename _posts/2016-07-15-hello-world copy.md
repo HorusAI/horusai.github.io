@@ -11,5 +11,6 @@ author:       "LTruong"
 
 # HorusAI Origins
 
-{{ site.time | date_to_rfc822 }}
+
+Test 2
 
