@@ -26,7 +26,7 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "/about/"
+    href:           "//horusai.github.io/about/" 
 
 
 # Sass
