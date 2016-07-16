@@ -9,6 +9,8 @@ image:        ""
 author:       "KCao"
 ---
 
+Khoa Cao, Co-Founder and Director
+
 Our story starts with the idea of **disruption**. It is a term often used by
 innovators and since its modern inception beyond  "social upset", it has become the go-to buzzword for many entrepreneurs, investors and technological enthusiasts. The roots of "Disruptive Innovation" lies with Professor Clayton Christensen at Harvard Business School, who characterised it as a service or product which takes root in simple applications. The product begins at the bottom of the market before relentlessly moving up, displacing established competitors. Themes of Disruptive Innovation are found in Agile/Lean methodology and design thinking, both of which champion rapid iteration and customer consciousness.
 
