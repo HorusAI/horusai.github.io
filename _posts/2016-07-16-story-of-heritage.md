@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Story of Heritage"
+title:  "HorusAI"
 date:   2016-07-16 16:00:00 +1000
 categories: Machine Learning
 # jekyll-seo-tag
@@ -9,7 +9,7 @@ image:        ""
 author:       "KCao"
 ---
 
-Khoa Cao, Co-Founder and Director
+Khoa Cao, Directing Co-Founder
 
 We'd like to think that medicine is a cutting edge field welcoming and harnessing technological advancements, but it consistently trails behind other sectors. For example, Blockchain technology is redefining FinTech but one would never dream of applying the Blockchain as a next-generation medical record in this current environment. Global and public health lags even further behind with examples of disruptive innovation far and few.
 
