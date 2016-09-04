@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "HorusAI"
+title:  "HorusAI Mission and Principles"
 date:   2016-07-16 16:00:00 +1000
 categories: Machine Learning
 # jekyll-seo-tag
