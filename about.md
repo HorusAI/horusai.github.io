@@ -11,15 +11,10 @@ investment.
 
 ## Team
 
-* Khoa Cao
-* Matthew Chan
-* Emily Yeung 
-* Peter Cui
-* Wesley Soh
-* Leon Truong
-* Bryan Ladowsky
-
-## Advisory Panel
-
-* A/Prof. Grant Blashki
-* Prof. Graham Brown
+* Khoa Cao (Director)
+* Leon Truong (Technical)
+* Matthew Chan (Research)
+* Emily Yeung (Research)
+* Bryan Ladowsky (Business, Legal)
+* Peter Cui (Business)
+* Wesley Soh (Product Development, UX)
